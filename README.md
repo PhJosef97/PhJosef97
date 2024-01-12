@@ -1,6 +1,8 @@
 <h1 align="center">Hello there 👋</h1>
-<img align="center" alt="Coding" width="400" src="https://media1.tenor.com/m/dyoCFHNiIAwAAAAC/peepo-hey-peepo.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phjosef97&label=Profile%20views&color=0e75b6&style=flat" alt="phjosef97" /> </p>
+<p align="center">
+  <img align="center" alt="Coding" width="200" src="https://media1.tenor.com/m/dyoCFHNiIAwAAAAC/peepo-hey-peepo.gif">
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phjosef97&label=Profile%20views&color=0e75b6&style=flat" alt="phjosef97" /> </p>
 
 - 🌱 I’m currently learning **Map-based websystems, Innovation & Prototyping, Agile project**
 
