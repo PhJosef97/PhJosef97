@@ -4,7 +4,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phjosef97&label=Profile%20views&color=0e75b6&style=flat" alt="phjosef97" /> </p>
 
-- 🌱 I’m currently learning **Map-based websystems, Innovation & Prototyping, Agile project**
+- 🌱 I’m currently learning **iOS programming, Cross-platfrom, Survey methods**
 
 - 📫 How to reach me **Phjosef97@gmail.com**
 </p>
