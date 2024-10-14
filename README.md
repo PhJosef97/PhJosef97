@@ -4,6 +4,15 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phjosef97&label=Profile%20views&color=0e75b6&style=flat" alt="phjosef97" /> </p>
 
+🎓 About Me
+
+I am a bachelor's student in frontend and mobile development at Kristiania University College. I have a strong passion for frontend development, working primarily with React, JavaScript, HTML, as well as mobile development using Kotlin (Jetpack Compose) and Swift for iOS.
+
+💻 I focus on creating user-friendly and responsive interfaces with clean, maintainable code that can easily be built upon by others. As I near the completion of my studies, I'm excited to take on new challenges in developing websites and mobile apps. 📱
+
+🚀 I am confident in my skills and enjoy sharing knowledge with other developers through collaboration and open-source projects.
+
+
 - 🌱 I’m currently learning **iOS programming, Cross-platform, Survey methods**
 
 - 📫 How to reach me **Phjosef97@gmail.com**
