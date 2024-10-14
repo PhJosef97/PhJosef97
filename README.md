@@ -6,11 +6,11 @@
 
 🎓 About Me
 
-I am a bachelor's student in frontend and mobile development at Kristiania University College. I have a strong passion for frontend development, working primarily with React, JavaScript, HTML, as well as mobile development using Kotlin (Jetpack Compose) and Swift for iOS.
+I am a bachelor’s student studying frontend and mobile development at Kristiania University College. I enjoy working with frontend technologies like React, JavaScript, and HTML, as well as mobile app development using Kotlin (Jetpack Compose) and Swift for iOS. I am also open to exploring other programming languages and technologies.
 
-💻 I focus on creating user-friendly and responsive interfaces with clean, maintainable code that can easily be built upon by others. As I near the completion of my studies, I'm excited to take on new challenges in developing websites and mobile apps. 📱
+💻 My focus is on creating user-friendly and responsive interfaces with clean code that is easy for others to build on. As I get closer to finishing my studies, I’m excited to take on new challenges in developing websites and mobile apps. 📱
 
-🚀 I am confident in my skills and enjoy sharing knowledge with other developers through collaboration and open-source projects.
+🚀 I’m confident in my skills and enjoy sharing what I know with other developers through teamwork and open-source projects.
 
 
 - 🌱 I’m currently learning **iOS programming, Cross-platform, Survey methods**
