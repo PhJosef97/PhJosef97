@@ -6,7 +6,7 @@
 
 🎓 About Me
 
-I recently graduated with a Bachelor's in Frontend and Mobile Development from Kristiania University College. I enjoy working with frontend-fullstack technologies like React, JavaScript/TypeScript, beside as mobile app development using Kotlin (Jetpack Compose) and Swift for iOS. I am also open to exploring other programming languages and technologies.
+I recently graduated with a Bachelor's in Frontend and Mobile Development from Kristiania University College. I enjoy working with frontend/fullstack technologies like React, JavaScript/TypeScript, beside as mobile app development using Kotlin (Jetpack Compose) and Swift for iOS. I am also open to exploring other programming languages and technologies.
 
 💻 My focus is on creating user-friendly and responsive interfaces with clean code that is easy for others to build on. I’m excited to take on new challenges in developing websites and mobile apps. 📱
 </p>
