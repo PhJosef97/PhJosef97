@@ -2,7 +2,6 @@
 <p align="center">
   <img align="center" alt="Coding" width="200" src="https://media1.tenor.com/m/dyoCFHNiIAwAAAAC/peepo-hey-peepo.gif">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phjosef97&label=Profile%20views&color=0e75b6&style=flat" alt="phjosef97" /> </p>
 
 🎓 About Me
 
