@@ -2,7 +2,6 @@
 <p align="center">
   <img align="center" alt="Coding" width="200" src="https://media1.tenor.com/m/dyoCFHNiIAwAAAAC/peepo-hey-peepo.gif">
 </p>
-
 🎓 About Me
 
 I recently graduated with a Bachelor's in Frontend and Mobile Development from Kristiania University College. I enjoy working with frontend/fullstack technologies like React, JavaScript/TypeScript, beside as mobile app development using Kotlin (Jetpack Compose) and Swift for iOS. I am also open to exploring other programming languages and technologies.
