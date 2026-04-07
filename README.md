@@ -5,7 +5,7 @@ I recently graduated with a Bachelor in Frontend and Mobile Development from Kri
 
 💻 My main goal is to become a Software Developer focused on creating user-friendly, responsive interfaces and innovative prototypes. I’m ready to take on new challenges in web and mobile development, whether as a consultant or in-house, while continuing to grow through my personal side projects.
 
-Hobbies: ⚽👨‍💻♟️🛫🏓🚲
+Hobbies: ⚽👨‍💻♟️🛫🏓🚲🏊
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
