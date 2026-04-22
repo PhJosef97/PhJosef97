@@ -1,11 +1,4 @@
 <h1 align="center">Hello there 👋</h1>
-🎓 About Me
-
-I recently graduated with a Bachelor in Frontend and Mobile Development from Kristiania University of Applied Sciences. I have worked with Web Development as React in TypeScript with C#,.NET/ASP.NET Core, REST API. Beside as mobile app development using Kotlin Jetpack Compose and Swift.
-
-💻 My main goal is to become a Software Developer focused on creating user-friendly, responsive interfaces and innovative prototypes. I’m ready to take on new challenges in web and mobile development, whether as a consultant or in-house, while continuing to grow through my personal side projects.
-
-Hobbies: ⚽👨‍💻♟️🛫🏓🚲🏊
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
